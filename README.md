@@ -1,2 +1,2 @@
-# super-duper-carnival
+# Ceng331
 Computer Organization Course Programming Assignments
